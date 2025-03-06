@@ -1,0 +1,8 @@
+package unidad02_ejercicio01_pokemon;
+
+public interface IPlanta {
+    public void atacarParalizar();
+    public void atacarDrenaje();
+    public void atacarHojaAfilada();
+    public void atacarLatigoCepa();
+}

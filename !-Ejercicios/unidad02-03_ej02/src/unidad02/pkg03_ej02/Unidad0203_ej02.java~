@@ -1,0 +1,53 @@
+package unidad02.pkg03_ej02;
+
+
+public class Unidad0203_ej02 {
+    public static void main(String[] args) {
+        /*
+        * CONSIGNA:
+        * Crear una clase Planta con los atributos: nombre, alto del tallo, tieneHojas, climaIdeal. Con sus métodos y constructores correspondientes.
+        *
+        * 1. Crear clases hijas que compartan atributos y metodos
+        *   - Arbol: variedad, tipoTronco, radioTronco, color, tipoHojas
+        *   - Flor: colorPetalos, cantidadPromedioPetalos, colorPistilo, colorPetalos, variedadFlor, estacionFlorecimiento
+        *   - Arbusto: anchoArbusto, esDomestico, variedadArbusto, colorHojas, sePodaONo
+        *
+        * 2. Una vez creadas, crear los siguientes metodos:
+        *   - Arbol: mostrar "Hola soy un arbol"
+        *   - Flor: mostrar "Hola soy una flor"
+        *   - Arbusto: mostrar "Hola soy un arbusto"
+        *
+        * 3. crear en el Main un objeto de cada clase Hija, llamar a los 3 metodos desde cada objeto
+        *
+        * 4. cambiar el mod. de acceso de los metodos de public a private. Intentar acceder a estos metodos.
+        * */
+
+        //3. crear en el main objetos de las clases hijas y llamar a los 3 metodos
+        try {
+
+            // OBJETO: ARBOL - PINO
+            Arbol arbol = new Arbol(
+                    "calido",    // climaIdeal
+                    "Pino",      // nombre
+                    true,        // tieneHojas
+                    10.0,        // altoTallo
+                    "Pino",      // variedad
+                    "Pino",      // tipoTronco
+                    1.0,         // radioTronco
+                    "verde",     // color
+                    "Pino"       // tipoHojas
+            );
+
+
+            // OBJETO: FLOR - AMAPOLA|
+           Flor flor = new Flor("calido", false, 2.0, "Amapola", "Amapola", "Amapola", "Amapola", "Amapola", "Amapola");
+
+           // OBJETO: ARBUSTO - ARBUSTO de BAYAS
+           Arbusto arbusto = new Arbusto("calido", true, 5.0, "Arbusto", "Arbusto", "Arbusto", "Arbusto", "Arbusto", "Arbusto");
+
+        } catch (Exception e) {
+            System.out.println(e);
+        }
+    }
+    
+}

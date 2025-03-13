@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fd6fac2-a38e-40db-8937-ef6d8f18c756" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej01/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej01/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej01/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej01/build/classes/logica/Empleado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej01/build/classes/logica/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej01/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej01/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej01/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej01/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej01/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej01/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej01/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej01/src/logica/Empleado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej01/src/logica/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej02/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../unidad01_ej02/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej02/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej02/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej02/build/classes/unidad01_ej02/CuentaBancaria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej02/build/classes/unidad01_ej02/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej02/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../unidad01_ej02/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej02/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../unidad01_ej02/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej02/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej02/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../unidad01_ej02/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej02/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../unidad01_ej02/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej02/src/unidad01_ej02/CuentaBancaria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej02/src/unidad01_ej02/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej03/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../unidad01_ej03/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej03/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../unidad01_ej03/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej03/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej03/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej03/build/classes/unidad01_ej03/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej03/build/classes/unidad01_ej03/Vehiculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej03/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../unidad01_ej03/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej03/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../unidad01_ej03/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej03/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../unidad01_ej03/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej03/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../unidad01_ej03/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej03/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../unidad01_ej03/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej03/out/production/unidad01_ej03/unidad01_ej03/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej03/out/production/unidad01_ej03/unidad01_ej03/Vehiculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej03/src/unidad01_ej03/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej03/src/unidad01_ej03/Vehiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad01_ej03/unidad01_ej03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/build/built-jar.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/out/production/unidad02_ejercicio01_pokemon/logica/Bulbasaur.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/out/production/unidad02_ejercicio01_pokemon/logica/Charmander.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/out/production/unidad02_ejercicio01_pokemon/logica/IAgua.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/out/production/unidad02_ejercicio01_pokemon/logica/IElectrico.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/out/production/unidad02_ejercicio01_pokemon/logica/IFuego.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/out/production/unidad02_ejercicio01_pokemon/logica/IPlanta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/out/production/unidad02_ejercicio01_pokemon/logica/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/out/production/unidad02_ejercicio01_pokemon/logica/Pikachu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/out/production/unidad02_ejercicio01_pokemon/logica/Pokemon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/out/production/unidad02_ejercicio01_pokemon/logica/Squirtle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/src/logica/Bulbasaur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/src/logica/Charmander.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/src/logica/IAgua.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/src/logica/IElectrico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/src/logica/IFuego.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/src/logica/IPlanta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/src/logica/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/src/logica/Pikachu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/src/logica/Pokemon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/src/logica/Squirtle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej01_pokemon/unidad02_ej01_pokemon.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej02/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej02/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej02/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej02/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej02/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej02/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej02/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej02/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej02/out/production/unidad02_ej02/unidad02_ej03/Auto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej02/out/production/unidad02_ej02/unidad02_ej03/Camion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej02/out/production/unidad02_ej02/unidad02_ej03/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej02/out/production/unidad02_ej02/unidad02_ej03/Moto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej02/out/production/unidad02_ej02/unidad02_ej03/Vehiculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej02/src/unidad02_ej03/Auto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej02/src/unidad02_ej03/Camion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej02/src/unidad02_ej03/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej02/src/unidad02_ej03/Moto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej02/src/unidad02_ej03/Vehiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej02/unidad02_ej02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej03/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej03/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej03/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej03/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej03/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej03/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej03/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej03/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej03/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej03/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej03/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej03/out/production/unidad02_ej03/logica/Empleado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej03/out/production/unidad02_ej03/logica/EmpleadoPorHora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej03/out/production/unidad02_ej03/logica/EmpleadoTiempoCompleto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej03/out/production/unidad02_ej03/logica/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej03/src/logica/Empleado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej03/src/logica/EmpleadoPorHora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej03/src/logica/EmpleadoTiempoCompleto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej03/src/logica/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej03/unidad02_ej03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej04/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej04/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej04/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej04/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej04/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej04/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej04/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej04/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej04/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej04/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej04/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej04/out/production/unidad02_ej04/unidad02_ej04/DoctorStrange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej04/out/production/unidad02_ej04/unidad02_ej04/Flash.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej04/out/production/unidad02_ej04/unidad02_ej04/ISuperFuerza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej04/out/production/unidad02_ej04/unidad02_ej04/ISuperVelocidad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej04/out/production/unidad02_ej04/unidad02_ej04/IVolar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej04/out/production/unidad02_ej04/unidad02_ej04/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej04/out/production/unidad02_ej04/unidad02_ej04/Superheroe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej04/out/production/unidad02_ej04/unidad02_ej04/Superman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej04/src/unidad02_ej04/DoctorStrange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej04/src/unidad02_ej04/Flash.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej04/src/unidad02_ej04/ISuperFuerza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej04/src/unidad02_ej04/ISuperVelocidad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej04/src/unidad02_ej04/IVolar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej04/src/unidad02_ej04/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej04/src/unidad02_ej04/Superheroe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej04/src/unidad02_ej04/Superman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unidad02_ej04/unidad02_ej04.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_Propiedades_POO/04_Clases_Abstractas/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01_Propiedades_POO/04_Clases_Abstractas/nbproject/private/private.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2uEAhagI8lpmh4iJr9b0NF6GNKb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/mates/OneDrive/Desktop/Progra/2025/03_todocode-java-poo/!-Ejercicios/unidad02-03_ej01"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fd6fac2-a38e-40db-8937-ef6d8f18c756" name="Changes" comment="" />
+      <created>1741803479665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741803479665</updated>
+    </task>
+    <servers />
+  </component>
+</project>
